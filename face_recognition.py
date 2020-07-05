@@ -23,7 +23,7 @@ faceCascade = cv2.CascadeClassifier(cascadePath);
 font = cv2.FONT_HERSHEY_SIMPLEX
 
 id = 0
-names = ['None', 'Goksu ', 'Bahadir','Utku']
+names = ['None', 'NAME1 ', 'NAME2','NAME3']
 
 
 cam = cv2.VideoCapture(0)
